@@ -16,8 +16,5 @@ data across 27 categories, built with Power Query and Pivot Tables.
 - Fuel & Light accelerated post-COVID reaching 182 in 2023
 - Rural inflation consistently 2.5 pts higher than Urban
 
-## Dashboard Preview
-![Dashboard](dashboard_preview.png)
-
 ## Dataset
 Source: All India CPI Index (Ministry of Statistics, Govt. of India
